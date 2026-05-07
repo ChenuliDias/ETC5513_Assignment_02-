@@ -11,13 +11,13 @@ This is a simple Quarto document created for ETC5513 Assignment 2.
 
 ## A Simple Calculation
 
-1. Simple addition calculation
+1.  Simple addition calculation
 
 ```{r}
 1 + 1
 ```
 
-2. Summary of the cars dataset 
+2.  Summary of the cars dataset
 
 ```{r}
 #| echo: true
@@ -28,3 +28,6 @@ summary(cars)
 
 ```
 
+## Analysis
+
+This section was modified on main to demonstrate a merge conflict.
